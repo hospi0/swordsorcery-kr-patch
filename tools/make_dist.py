@@ -10,7 +10,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 VER = 'v0.9'
 XDELTA = r'C:\claude\utils\xdelta.exe'
 ROM = 'Sword & Sorcery (Japan) (Rev A) (10M)'
-SRC = os.path.join(r'C:\claude\roms\ss', ROM)
+SRC = os.path.join(r'D:\hospi\My Documents\한글패치\SS\ss', ROM)
 OUT = os.path.join(ROOT, 'dist', 'build', ROM)
 NAME = 'SwordSorcery_KR_' + VER
 TITLE = '소드 & 소서리 (Sword & Sorcery, 세가 새턴 일본판 Rev A) 한글 패치 ' + VER

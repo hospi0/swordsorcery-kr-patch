@@ -7,7 +7,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NAMES = {0: 'Sword & Sorcery (Japan) (Rev A) (10M)'}
 
 
-def bin_path(n): return os.path.join(r'C:\claude\roms\ss', NAMES[n], NAMES[n] + ' (Track 1).bin')
+def bin_path(n): return os.path.join(r'D:\hospi\My Documents\한글패치\SS\ss', NAMES[n], NAMES[n] + ' (Track 1).bin')
 
 
 def sec(f, l, n=1):
